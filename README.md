@@ -20,3 +20,4 @@ pip install -r requirements.txt
 ```
 python scrapping_script.py
 ```
+the script will generate a CSV file
