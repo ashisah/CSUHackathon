@@ -18,7 +18,7 @@ with open('kits.csv', mode='w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
-    for x in range(999999):
+    for x in range(200000,400000):
         # generate URL
         url = "https://sakt.ohioattorneygeneral.gov/timeline?serialNumber="
         i=6-len(str(x))
