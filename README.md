@@ -1,5 +1,7 @@
 # CSUHackathon
 CSU Hackathon Solution
+
+to run this script on linux or mac:
 1. git clone the repository
 
 2. cd into project directory
