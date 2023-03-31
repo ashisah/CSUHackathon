@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ```
 6. run script
 ```
-python scraping_script.py
+python scrapping_script.py
 ```
